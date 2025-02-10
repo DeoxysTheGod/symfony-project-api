@@ -11,9 +11,8 @@ class AppFixtures extends Fixture
     public function load(ObjectManager $manager): void
     {
         $languages = [
-            ["code" => "fr", "name" => "France"],
-            ["code" => "en", "name" => "English"],
-            ["code" => "es", "name" => "España"]
+            ["code" => "fr", "name" => "Français"],
+            ["code" => "en", "name" => "English"]
         ];
 
         foreach ($languages as $data) {

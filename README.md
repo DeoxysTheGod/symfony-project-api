@@ -1,6 +1,6 @@
 <div align="center">
 
-# ~~ 🇫🇷API For Country Flags  🇫🇷~~
+# ~~ 🇫🇷 API For Country Flags  🇫🇷 ~~
 
 </div>
 
